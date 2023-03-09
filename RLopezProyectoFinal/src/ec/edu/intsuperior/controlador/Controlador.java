@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author wssa8
+ * @author dlopez
  */
 public class Controlador {
     Loggin loggin= new Loggin(this);

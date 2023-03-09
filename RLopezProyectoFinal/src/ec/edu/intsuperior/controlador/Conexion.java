@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author wssa8
+ * @author dlopez
  */
 public class Conexion {
     Controlador controlador;
@@ -47,7 +47,7 @@ public class Conexion {
                System.out.println("Id User: " + rst.getInt(1)
                         + "\nUser Name: " + rst.getString(2)
                         + "\nPassword: " + rst.getString(3));
-                System.out.println("**********************************");
+                System.out.println("==============");
            }
        } catch (SQLException ex) {
            Logger.getLogger(Conexion.class.getName()).log(Level.SEVERE, null, ex);

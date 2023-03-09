@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author wssa8
+ * @author dlopez
  */
 public class Administrador extends javax.swing.JFrame {
 

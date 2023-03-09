@@ -9,7 +9,6 @@ import ec.edu.intsuperior.controlador.Controlador;
 
 /**
  *
- * @author wssa8
  */
 public class RegistrarProveedor extends javax.swing.JFrame {
 
